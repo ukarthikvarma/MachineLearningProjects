@@ -1,0 +1,40 @@
+2020-06-12/03:09:22			Starting of Hyperparameter Tuning of Random Forest and XGBoost Regressor
+2020-06-12/03:09:22			
+
+
+ Hyperparameter Tuning 
+
+
+2020-06-12/03:09:22			Defining the parameters for tuning of Random Forest
+2020-06-12/03:09:22			Defining parameters for Tuning of XGBoost Regressor
+2020-06-12/03:09:22			Defined the parameters for Hyperparameter tuning
+2020-06-12/03:09:22			Creating an estimator of Random Forest and XGBoost Regressor
+2020-06-12/03:09:22			Estimators defined
+2020-06-12/03:09:22			Creating an instance of Randomized Search CV for both Random Forest and XGBoost Regressor
+2020-06-12/03:09:22			Instance of Randomized Search CV is created for Random Forest and XGBoost Regressor
+2020-06-12/03:09:22			Hyperparameter tuning is started for Random Forest
+2020-06-12/03:30:00			Tuning is completed
+2020-06-12/03:30:00			Finding the best model....
+2020-06-12/03:30:00			Found the best estimators for random forest
+2020-06-12/03:30:00			Fitting the best model of random forest...
+2020-06-12/03:30:19			Best model fitting completed for Random forest
+2020-06-12/03:30:19			Predicting values using best model of random forest ..
+2020-06-12/03:30:19			Values predicted using best model... & Now calculating the MSE score of Best model
+2020-06-12/03:30:19			Mse score of Best Random model : 0.1210522744816352
+2020-06-12/03:30:19			Now saving the best model as rfBestWithReviews.pkl
+2020-06-12/03:30:25			Best Random model saved ..
+2020-06-12/03:30:25			Hyperparameter tuning is started for XGBoost Regressor
+2020-06-12/03:49:24			Tuning is completed for XGBoost Regressor
+2020-06-12/03:49:24			Finding the best model....
+2020-06-12/03:49:24			Found the best estimators for XGBoost Regressor
+2020-06-12/03:49:24			Fitting the best model of XGBoost Regressor...
+2020-06-12/03:49:38			Best model fitting completed for XGBoost Regressor
+2020-06-12/03:49:38			Predicting values using best model of XGBoost Regressor ..
+2020-06-12/03:49:38			Values predicted using best model... & Now calculating the MSE score of Best model
+2020-06-12/03:49:38			Mse score of Best XGR model : 0.11855260064435827
+2020-06-12/03:49:38			Now saving the best model as xgrBestWithReviews.pkl
+2020-06-12/03:49:40			Best XGR model saved ..
+2020-06-12/03:49:40			
+ Hyperparameter Tuning Completed 
+
+

@@ -1,0 +1,10 @@
+2020-06-12/03:08:17			Reviews model training started
+2020-06-12/03:08:17			Starting to create training and testing sets
+2020-06-12/03:08:18			Seperated training and testing sets
+2020-06-12/03:08:18			Model Training started
+2020-06-12/03:08:43			Model Training ended
+2020-06-12/03:08:45			Values predicted
+2020-06-12/03:08:45			MSE value of model is 0.21674512054854564
+2020-06-12/03:08:45			Saving Model as a pickle file
+2020-06-12/03:08:47			Model Saved as a pickle file
+2020-06-12/03:08:47			Exiting the model_training_class

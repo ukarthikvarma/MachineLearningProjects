@@ -1,0 +1,14 @@
+2020-06-12/03:09:09			Model Training for df is started
+2020-06-12/03:09:09			Entering Linear Regression Model Training...
+2020-06-12/03:09:09			Linear Regression model trained sucessfully.. Now entering the predicting phase
+2020-06-12/03:09:09			Scores of Linear model is 0.20397288416247106
+2020-06-12/03:09:09			Entering the Decision Tree Regression Model Training...
+2020-06-12/03:09:09			Decision Tree Regression model trained sucessfully.. Now entering the predicting phase
+2020-06-12/03:09:09			Scores of Decision Tree Model is : 0.17970428125314997
+2020-06-12/03:09:09			Entering the Random Forest Regression Model Training...
+2020-06-12/03:09:14			Random Forest Regression model trained sucessfully.. Now entering the predicting phase
+2020-06-12/03:09:14			MSE Score of Random Forest model  is : 0.16850796454112782
+2020-06-12/03:09:14			Entering the XG Boost Regression Model Training...
+2020-06-12/03:09:19			XGBoost Regression model trained sucessfully.. Now entering the predicting phase
+2020-06-12/03:09:19			MSE Score of XGBoost model  is : 0.12001250900594179
+2020-06-12/03:09:19			Model Trainin is completed for df.

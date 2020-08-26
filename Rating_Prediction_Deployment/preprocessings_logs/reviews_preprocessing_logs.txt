@@ -1,0 +1,8 @@
+2020-06-12/03:06:55			Preprocessing of Reviews started
+2020-06-12/03:06:55			Corpus variable is defined
+2020-06-12/03:06:55			Cleaning of reviews is started
+2020-06-12/03:08:14			Cleaning of reviews is completed
+2020-06-12/03:08:14			Creating a Bag of Words using Countvectorizor techinque with max_features as 3000
+2020-06-12/03:08:16			Bag of words is created and Features and labels are seperated
+2020-06-12/03:08:16			Creating a pickle file for Countvectoriser
+2020-06-12/03:08:17			Pickle file created for Countvectoriser

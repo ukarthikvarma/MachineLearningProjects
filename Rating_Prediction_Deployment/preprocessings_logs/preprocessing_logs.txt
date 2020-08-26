@@ -1,0 +1,32 @@
+2020-06-12/03:06:02			Reading Ratings reviews dataset
+2020-06-12/03:06:04			Sucessfully read the dataframe the path sepicified....
+2020-06-12/03:06:04			****PREPROCESSING STARTED FOR DATAFRAME WITHOUT REVIEWS****
+2020-06-12/03:06:04			Converting the [[],[]] values into null values of Reviews column
+2020-06-12/03:06:20			Converted [[], []] into null values
+2020-06-12/03:06:20			Dropping all the null values in df
+2020-06-12/03:06:20			Dropped all the null values in the dataset....
+2020-06-12/03:06:20			Dropping Name column
+2020-06-12/03:06:20			Sucessfully Dropped Name column
+2020-06-12/03:06:20			Starting to group the categorical values
+2020-06-12/03:06:20			Found Top 6 six cities and top 5 cuisine style , we will group remaining into Other cities and other cuisine style Categories
+2020-06-12/03:06:33			Sucessfully grouped cities and other cities
+2020-06-12/03:06:55			Sucessfuly grouped Cuisine Styles and Other cuisine
+2020-06-12/03:06:55			Starting to ordinal codin the price range columns
+2020-06-12/03:06:55			Sucessfully encoded price range column
+2020-06-12/03:06:55			Calling Reviews Preprocessing class for training of reviews
+2020-06-12/03:06:55			Reviews Preprocessing started
+2020-06-12/03:08:17			Reviews Prerocessing completed
+2020-06-12/03:08:17			Reviews model training started
+2020-06-12/03:08:47			Reviews model Trainig ended Models saved as pickle files
+2020-06-12/03:08:47			Exiting Reviews Preprocessing class
+2020-06-12/03:08:47			Dropping Reviews Column
+2020-06-12/03:08:47			Droppe Reviews column
+2020-06-12/03:08:47			Starting to Dummy coding the object type variables
+2020-06-12/03:08:47			Sucessfully dummy encoded object variables
+2020-06-12/03:08:47			Shuffling the Dataframe
+2020-06-12/03:08:47			Sucessfully Shuffled Dataframe
+2020-06-12/03:08:47			Seprating Features and labels
+2020-06-12/03:08:47			Seperated Features and labels
+2020-06-12/03:08:47			Splitting data into training and testing data
+2020-06-12/03:08:47			Sucessfully Seperated Training and testing data
+2020-06-12/03:08:47			****Sucessfully Completed Preprocessing step for DF1****
